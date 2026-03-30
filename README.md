@@ -45,7 +45,6 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 - Git & GitHub  
 - Figma  
 
--
 
 ### Objetivo Profissional
 Atuar na área de tecnologia, aplicando conhecimentos em desenvolvimento, banco de dados e design de sistemas, com foco em aprendizado contínuo e boas práticas.
