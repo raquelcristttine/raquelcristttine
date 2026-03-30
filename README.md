@@ -7,7 +7,7 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 --
 
-## Projetos Desenvolvidos
+### Projetos Desenvolvidos
 
 ### Projeto de Modelagem de Sistemas
 - Criação de diagramas de classe UML
@@ -39,7 +39,7 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 --
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 - HTML | CSS  
 - SQL  
 - Git & GitHub  
@@ -47,5 +47,5 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 --
 
-## Objetivo Profissional
+### Objetivo Profissional
 Atuar na área de tecnologia, aplicando conhecimentos em desenvolvimento, banco de dados e design de sistemas, com foco em aprendizado contínuo e boas práticas.
