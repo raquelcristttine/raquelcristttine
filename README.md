@@ -1,7 +1,6 @@
 # 👩🏻‍💻 Raquel Cristine
 
-🎓 Graduada em Pedagogia | Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
-Brasília – DF  
+🎓 Graduada em Pedagogia (2019) e estudante do 2º semestre de Análise e Desenvolvimento de Sistemas (ADS) na UNIPLAN. Interesse em tecnologia e soluções inovadoras.
 
 Sou estudante de tecnologia em transição de carreira, com experiência em projetos acadêmicos e pessoais envolvendo modelagem de sistemas, prototipação, desenvolvimento web e banco de dados.
 
