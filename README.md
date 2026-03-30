@@ -38,7 +38,7 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 
 
-## Tecnologias
+##
 - HTML | CSS  
 - SQL  
 - Git & GitHub  
