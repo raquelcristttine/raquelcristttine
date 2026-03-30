@@ -9,14 +9,14 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 ### Projetos Desenvolvidos
 
-### Projeto de Modelagem de Sistemas
+## Projeto de Modelagem de Sistemas
 - Criação de diagramas de classe UML
 - Organização lógica de sistemas para entendimento funcional e técnico
 - Projeto desenvolvido com foco em documentação e análise
 
 --
 
-### Projeto de Prototipação (UI/UX)
+## Projeto de Prototipação (UI/UX)
 - Desenvolvimento de protótipos no Figma
 - Criação de telas navegáveis simulando sistemas reais
 - Aplicação de princípios de usabilidade e organização visual
@@ -25,21 +25,21 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 --
 
-### Projeto de Desenvolvimento Web
+## Projeto de Desenvolvimento Web
 - Criação de site utilizando HTML e CSS
 - Estruturação de páginas estáticas
 - Organização de layout, conteúdo e estilos
 
 --
 
-### Projeto de Banco de Dados
+## Projeto de Banco de Dados
 - Modelagem e criação de banco de dados
 - Desenvolvimento de projeto pessoal envolvendo estruturação de tabelas e consultas SQL
 - Aplicação de conceitos de relacionamento e organização de dados
 
 --
 
-### Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML | CSS  
 - SQL  
 - Git & GitHub  
