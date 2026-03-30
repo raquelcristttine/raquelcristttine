@@ -7,7 +7,7 @@ Sou estudante de tecnologia em transição de carreira, com experiência em proj
 
 --
 
-### Projetos Desenvolvidos
+## Projetos Desenvolvidos
 
 ## Projeto de Modelagem de Sistemas
 - Criação de diagramas de classe UML
